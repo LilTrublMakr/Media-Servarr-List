@@ -1,0 +1,14 @@
+.md-header {
+  background-color: #8a0707;
+}
+
+.md-typeset img[align=left],
+.md-typeset svg[align=left] {
+  margin: 0;
+  margin-right: 1em;
+}
+
+.md-typeset ul li,
+.md-typeset ol li {
+  margin-bottom: 0;
+}
